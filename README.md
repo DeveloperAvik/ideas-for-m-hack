@@ -1,4 +1,4 @@
-# 🧠 Health & Mind Mirror
+# 🧠 MindMirror AI (Health & Mind Mirror)
 
 **The World’s First AI Health & Mind Mirror for Youth and Professionals**
 
