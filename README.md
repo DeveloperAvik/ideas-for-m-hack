@@ -81,8 +81,10 @@ It acts as a **personal wellness coach**, chatting like a friend to guide you to
 
 | Name | Role |
 |------|------|
-| Avik Das | Team Lead / Full Stack & AI Developer |
-| [Add team members] | [Their roles here] |
+| Avik Das | Full Stack Developer |
+| Anshika Singh  | SDE @IBM |
+| Shivam Gupta | Backend Developer |
+| Yash Pakale | AI/ML Engineer |
 
 ---
 
@@ -129,7 +131,7 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 ## ❤️ Acknowledgements
 
 - OpenCV, DeepFace, TensorFlow, SpeechEmotionRecognition  
-- LPU & MumbaiHacks 2025 Organizing Committee  
+- MumbaiHacks 2025 Organizing Committee  
 - Mentors and teammates who supported the journey  
 
 ---
