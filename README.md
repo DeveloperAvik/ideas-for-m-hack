@@ -82,7 +82,7 @@ It acts as a **personal wellness coach**, chatting like a friend to guide you to
 | Name | Role |
 |------|------|
 | Avik Das | Full Stack Developer |
-| Anshika Singh  | SDE @IBM |
+| Anshika Singh | SDE @ IBM |
 | Shivam Gupta | Backend Developer |
 | Yash Pakale | AI/ML Engineer |
 
@@ -136,5 +136,11 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 ---
 
-### ⭐ If you like this idea, give it a star on GitHub and help us spread preventive AI wellness!
+## 🔗 Project Files & Demo
 
+All project-related files, documentation, and demo videos are available here:  
+👉 [**View on Google Drive**](https://drive.google.com/your-project-link-here)
+
+---
+
+### ⭐ If you like this idea, give it a star on GitHub and help us spread preventive AI wellness!
