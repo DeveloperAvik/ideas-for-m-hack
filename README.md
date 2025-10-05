@@ -139,7 +139,7 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 ## 🔗 Project Files & Demo
 
 All project-related files, documentation, and demo videos are available here:  
-👉 [**View on Google Drive**](https://drive.google.com/your-project-link-here)
+👉 [**View on Google Drive**]([https://drive.google.com/your-project-link-here](https://docs.google.com/presentation/d/1qVbs_Mrm2M1iI-UE_QbEwGnVuRT-Vv-t/edit?usp=sharing&ouid=111344183546409690480&rtpof=true&sd=true))
 
 ---
 
